@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_Api_Token", "Web_Api_Token\Web_Api_Token.csproj", "{C151D6E6-5DB0-44DD-8C11-38D56280A7C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Token_Client", "Token_Client\Token_Client.csproj", "{A1CAE89E-2142-40BA-B8D2-468152126DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C151D6E6-5DB0-44DD-8C11-38D56280A7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C151D6E6-5DB0-44DD-8C11-38D56280A7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C151D6E6-5DB0-44DD-8C11-38D56280A7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C151D6E6-5DB0-44DD-8C11-38D56280A7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CAE89E-2142-40BA-B8D2-468152126DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CAE89E-2142-40BA-B8D2-468152126DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CAE89E-2142-40BA-B8D2-468152126DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CAE89E-2142-40BA-B8D2-468152126DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D79833-A59D-4DDD-A536-C6A1BD1BFCB7}
+	EndGlobalSection
+EndGlobal
